@@ -1,0 +1,12 @@
+[2022-02-22T16:21:18.516Z] Validating found git in: git
+[2022-02-22T16:21:18.554Z] Using git 2.25.1 from git
+[2022-02-22T16:21:55.256Z] > git init [9ms]
+[2022-02-22T16:21:55.264Z] > git rev-parse --git-dir [1ms]
+[2022-02-22T16:21:55.268Z] Open repository: /home/jbarkume
+[2022-02-22T16:21:55.301Z] > git symbolic-ref --short HEAD [1ms]
+[2022-02-22T16:21:55.307Z] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master [1ms]
+[2022-02-22T16:21:55.315Z] > git remote --verbose [2ms]
+[2022-02-22T16:21:55.315Z] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [5ms]
+[2022-02-22T16:21:55.931Z] > git config --get commit.template [31ms]
+[2022-02-22T16:21:56.178Z] > git ls-files --stage -- /home/jbarkume/HW1/hw1.ml [1ms]
+[2022-02-22T16:21:57.029Z] > git ls-files --stage -- /home/jbarkume/HW1/hw1.ml [1ms]

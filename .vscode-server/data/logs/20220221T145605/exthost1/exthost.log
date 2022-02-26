@@ -1,0 +1,13 @@
+[2022-02-21 14:56:06.727] [exthost] [info] Extension host with pid 143 started
+[2022-02-21 14:56:06.740] [exthost] [info] Lock '/home/jbarkume/.vscode-server/data/User/workspaceStorage/7bf8d4b6d1f2c1c945a73d0bb81b1096/vscode.lock': Lock acquired.
+[2022-02-21 14:56:06.777] [exthost] [info] ExtensionService#_doActivateExtension freebroccolo.reasonml, startup: false, activationEvent: 'onLanguage:ocaml'
+[2022-02-21 14:56:06.861] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: true, activationEvent: '*'
+[2022-02-21 14:56:06.867] [exthost] [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.github
+[2022-02-21 14:56:06.914] [exthost] [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+[2022-02-21 14:56:06.967] [exthost] [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+[2022-02-21 14:56:07.040] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onStartupFinished'
+[2022-02-21 14:56:07.056] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+[2022-02-21 14:56:07.060] [exthost] [info] Eager extensions activated
+[2022-02-21 15:46:47.121] [exthost] [info] extension host terminating: received terminate message from renderer
+[2022-02-21 15:46:47.123] [exthost] [info] Lock '/home/jbarkume/.vscode-server/data/User/workspaceStorage/7bf8d4b6d1f2c1c945a73d0bb81b1096/vscode.lock': Marking the lockfile as scheduled to be released in 6000 ms.
+[2022-02-21 15:46:47.155] [exthost] [info] Extension host with pid 143 exiting with code 0

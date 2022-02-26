@@ -1,0 +1,23 @@
+[2022-02-16 21:12:31.495] [remoteagent] [info] 
+
+*
+* Visual Studio Code Server
+*
+* Reminder: You may only use this software with Visual Studio family products,
+* as described in the license https://aka.ms/vscode-remote/license
+*
+
+
+[2022-02-16 21:12:31.495] [remoteagent] [info] Extension host agent started.
+[2022-02-16 21:12:31.640] [remoteagent] [info] [127.0.0.1][c2e5303f][ManagementConnection] New connection established.
+[2022-02-16 21:12:31.704] [remoteagent] [info] [127.0.0.1][ed8f0201][ExtensionHostConnection] New connection established.
+[2022-02-16 21:12:31.709] [remoteagent] [info] [127.0.0.1][ed8f0201][ExtensionHostConnection] <155> Launched Extension Host Process.
+[2022-02-16 21:14:27.852] [remoteagent] [info] Getting Manifest... freebroccolo.reasonml
+[2022-02-16 21:14:27.895] [remoteagent] [info] Installing extension: freebroccolo.reasonml
+[2022-02-16 21:14:28.357] [remoteagent] [info] Downloaded extension: freebroccolo.reasonml /home/jbarkume/.vscode-server/data/CachedExtensionVSIXs/freebroccolo.reasonml-1.0.38
+[2022-02-16 21:14:29.912] [remoteagent] [info] Extracted extension to /home/jbarkume/.vscode-server/extensions/.6945d841-cd42-4980-821a-51cbbf557b95: freebroccolo.reasonml
+[2022-02-16 21:14:29.921] [remoteagent] [info] Renamed to /home/jbarkume/.vscode-server/extensions/freebroccolo.reasonml-1.0.38
+[2022-02-16 21:14:29.922] [remoteagent] [info] Extracting completed. freebroccolo.reasonml
+[2022-02-16 21:14:29.923] [remoteagent] [info] Extension installed successfully: freebroccolo.reasonml
+[2022-02-16 21:19:54.821] [remoteagent] [info] [127.0.0.1][c2e5303f][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[2022-02-16 21:19:54.850] [remoteagent] [info] [127.0.0.1][ed8f0201][ExtensionHostConnection] <155> Extension Host Process exited with code: 0, signal: null.
